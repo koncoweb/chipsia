@@ -146,9 +146,12 @@ function PlasmicHomepage__RenderFunc(props) {
                 displayMinHeight={"0"}
                 displayMinWidth={"0"}
                 displayWidth={"auto"}
-                src={
-                  "https://via.placeholder.com/150x90/FF0000/FFFFFF/?text=Slide_1"
-                }
+                src={{
+                  src: "/plasmic/commerce_landing_page/images/indonesianTempehChipsExporterjpg.jpeg",
+                  fullWidth: 1640,
+                  fullHeight: 924,
+                  aspectRatio: undefined
+                }}
               />
 
               <p.PlasmicImg
@@ -160,9 +163,12 @@ function PlasmicHomepage__RenderFunc(props) {
                 displayMinHeight={"0"}
                 displayMinWidth={"0"}
                 displayWidth={"auto"}
-                src={
-                  "https://via.placeholder.com/150x90/00FF00/FFFFFF/?text=Slide_2"
-                }
+                src={{
+                  src: "/plasmic/commerce_landing_page/images/bananaChipsExporterjpg.jpeg",
+                  fullWidth: 1640,
+                  fullHeight: 924,
+                  aspectRatio: undefined
+                }}
               />
 
               <p.PlasmicImg
@@ -174,9 +180,12 @@ function PlasmicHomepage__RenderFunc(props) {
                 displayMinHeight={"0"}
                 displayMinWidth={"0"}
                 displayWidth={"auto"}
-                src={
-                  "https://via.placeholder.com/150x90/0000FF/FFFFFF/?text=Slide_3"
-                }
+                src={{
+                  src: "/plasmic/commerce_landing_page/images/cassavaChipsExporterChipsiajpg.jpeg",
+                  fullWidth: 1640,
+                  fullHeight: 924,
+                  aspectRatio: undefined
+                }}
               />
             </Slider>
           </section>
