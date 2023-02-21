@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -38,7 +38,8 @@
           "name": "Slider",
           "componentImportPath": "react-slick"
         }
-      ]
+      ],
+      "jsBundleThemes": []
     },
     {
       "projectId": "ijbX9dfpBRbW1FGSgs1NJo",
@@ -555,6 +556,21 @@
           "id": "1kQspsd_3",
           "name": "bananas-chips-indonesia.png",
           "filePath": "../public/plasmic/commerce_landing_page/images/bananasChipsIndonesiapng.png"
+        },
+        {
+          "id": "halu6r7Oc",
+          "name": "Indonesian-tempeh-chips-exporter.jpg",
+          "filePath": "../public/plasmic/commerce_landing_page/images/indonesianTempehChipsExporterjpg.jpeg"
+        },
+        {
+          "id": "FupcW5EW1",
+          "name": "banana-chips-exporter.jpg",
+          "filePath": "../public/plasmic/commerce_landing_page/images/bananaChipsExporterjpg.jpeg"
+        },
+        {
+          "id": "XJ2qP_2xB",
+          "name": "cassava-chips-exporter-chipsia.jpg",
+          "filePath": "../public/plasmic/commerce_landing_page/images/cassavaChipsExporterChipsiajpg.jpeg"
         }
       ],
       "indirect": false,

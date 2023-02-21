@@ -9,9 +9,9 @@
   min-height: 0;
 }
 .navBar:global(.__wab_instance) {
-  position: relative;
-  top: auto;
-  left: auto;
+  position: sticky;
+  top: 0px;
+  left: 0px;
   z-index: 99;
 }
 .section__oeqjp {
